@@ -1,0 +1,6 @@
+{
+  "name": "آزمایشگاه شبیه‌سازی کوانتوم",
+  "description": "شبیه‌ساز لحظه‌ای و تعاملی مکانیک کوانتومی با حل معادله شرودینگر وابسته به زمان، تونل‌زنی کوانتومی و آزمایش دوشکاف با قابلیت شخصی‌سازی کامل پارامترها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
